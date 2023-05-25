@@ -6,7 +6,7 @@
 	import { store } from '../Authenticate';
 </script>
 
-<body style="background-color:lavender">
+<body>
 <div class="container">
 
 {#if $store != null }
